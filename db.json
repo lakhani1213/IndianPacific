@@ -1,7 +1,4 @@
-user=[
-
-
-  {
+{
         id:1,
         username:"rlakhani590",
         password:"1234",
@@ -19,6 +16,3 @@ user=[
         city:"Rajkot",
         imageurl:"1.png"
     }
-
-
-]
