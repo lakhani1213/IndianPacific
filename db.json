@@ -1,18 +1,13 @@
 {
-        id:1,
-        username:"rlakhani590",
-        password:"1234",
-        course:"B.Tech",
-        dept:"IT",
-        city:"Rajkot",
-        imageurl:"1.png"
-    },
-  {
-        id:2,
-        username:"Renish Lakhani",
-        password:"17SOEIT11013",
-        course:"B.Tech",
-        dept:"IT",
-        city:"Rajkot",
-        imageurl:"1.png"
+  "posts": [
+    {
+      "id": 1,
+ 	"username":"rlakhani590",
+        "password":"1234",
+      "title": "hello"
     }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
